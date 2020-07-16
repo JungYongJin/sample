@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Apple{
 
-	private int weight = 0;
+	private int weight = 20;
     private String color = "";
     private BigDecimal amt;
 
